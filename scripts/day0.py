@@ -23,6 +23,7 @@ from _env import *
 def main():
     """主逻辑"""
     print("hello world")
+    print("这是我的第一个 Git 提交测试")
 
 
 if __name__ == "__main__":
